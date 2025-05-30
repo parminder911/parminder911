@@ -19,13 +19,11 @@ I'm a DevOps enthusiast passionate about automating workflows and managing infra
   - Built a CI/CD pipeline with Jenkins to automate building and deploying a game app from a GitHub repo into a WAR file.
   - Tools: Jenkins, Git, Maven, JUnit, Tomcat
   - [View Project]([your-repo-link])
-- **[Your Next Project]**
-  - [Brief description and tools]
-  - [Link if available]
+
 
 ## Contact
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [your-linkedin-profile]
+- **Email**: [parminderj98@gmail.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/parminderjit/)]
 <!--
 **parminder911/parminder911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
