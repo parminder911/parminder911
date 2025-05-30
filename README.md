@@ -1,93 +1,66 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d87e39f-a3c3-4974-88f5-fdb581ab97d7/Image-1-13" alt="DevOps banner" style="height: 78%; width: auto;">
+  <img src="https://raw.githubusercontent.com/parminder911/parminder911/main/banner.jpg" alt="DevOps Banner" height="280">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8d87e39f-a3c3-4974-88f5-fdb581ab97d7/Image-1-13" alt="DevOps banner" height="300">
-</p>
-
-
-<h1 align="center">Hi, I'm Parminderjit  👋</h1>
+<h1 align="center">Hi, I'm Parminderjit 👋</h1>
 <h3 align="center">A DevOps Enthusiast from India 🇮🇳</h3>
 
 I'm a DevOps enthusiast passionate about automating workflows and managing infrastructure. I’ve built hands-on experience with modern DevOps tools through personal projects and am eager to contribute to real-world development processes.
 
-## Skills
-- **Version Control**: Git
-- **Project Management**: Jira
-- **Build Tools**: Maven
-- **Testing**: Selenium, JUnit
-- **CI/CD**: Jenkins
-- **Containerization**: Docker
-- **Configuration Management**: Ansible
-- **Monitoring**: Nagios
-- **Orchestration**: Kubernetes
+---
 
-- ### 🛠 DevOps Tools
+## 🛠️ Skills & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- **Version Control**: Git  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 
+- **Project Management**: Jira  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira"/>
 
-- 
+- **Build Tools**: Maven  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" alt="Maven"/>
 
-## Projects
-- **Jenkins Pipeline for Game Application**
-  - Built a CI/CD pipeline with Jenkins to automate building and deploying a game app from a GitHub repo into a WAR file.
-  - Tools: Jenkins, Git, Maven, JUnit, Tomcat
-  - [View Project]([your-repo-link])
- 
+- **Testing**: Selenium, JUnit  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" height="25" alt="JUnit"/>
 
+- **CI/CD**: Jenkins  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
 
-### 🚀 Projects
+- **Containerization**: Docker  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 
-#### 🔧 Jenkins Pipeline for Game Application
-Built a CI/CD pipeline with Jenkins to automate building and deploying a game app from a GitHub repo into a WAR file.
+- **Configuration Management**: Ansible  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" alt="Ansible"/>
 
-**Tools Used:**  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+- **Monitoring**: Nagios  
+  <img src="https://img.shields.io/badge/Nagios-000000?style=flat&logo=nagios&logoColor=white" height="25" alt="Nagios"/>
 
-
-
-- 🧰 Tools: ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-## Contact
-- **Email**: [parminderj98@gmail.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/parminderjit/)]
-<!--
-
-### 🚀 My DevOps Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **CI/CD for PHP Website** | Automated build & deploy via GitHub Actions to cPanel | GitHub Actions, Linux, FTP | [View on GitHub](https://github.com/parminder911/project-name) |
-| **AWS Static Site Hosting** | Deployed a secure HTML site on EC2 with Nginx & SSL | AWS EC2, Route53, Nginx | [Project Repo](https://github.com/parminder911/project-name) |
+- **Orchestration**: Kubernetes  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
 
 ---
 
-### 📊 GitHub Stats
+## 📁 Projects
+
+### 🚀 Jenkins Pipeline for Game Application
+- Built a CI/CD pipeline with Jenkins to automate building and deploying a game app from a GitHub repo into a WAR file.
+- **Tools**: Jenkins, Git, Maven, JUnit, Tomcat  
+- 🔗 [View Project](https://github.com/parminder911/your-repo-name)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [parminderj98@gmail.com](mailto:parminderj98@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/parminderjit](https://www.linkedin.com/in/parminderjit)
+
+---
+<!--
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parminder911&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parminder911&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-#stats
-
-### 📊 GitHub Stats
-
-![parminder911's GitHub stats](https://github-readme-stats.vercel.app/api?username=parminder911&show_icons=true&theme=radical)
-
+-->
