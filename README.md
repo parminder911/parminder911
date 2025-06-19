@@ -43,10 +43,10 @@ I'm a DevOps enthusiast passionate about automating workflows and managing infra
 
 ## 📁 Projects
 
-### 🚀 Jenkins Pipeline for Game Application
-- Built a CI/CD pipeline with Jenkins to automate building and deploying a game app from a GitHub repo into a WAR file.
+### 🚀 Jenkins Pipeline
+- Built a CI/CD pipeline with Jenkins to automate building and deploying.
 - **Tools**: Jenkins, Git, Maven, JUnit, Tomcat  
-- 🔗 [View Project](https://github.com/parminder911/your-repo-name)
+- 🔗 [View Project]([https://github.com/parminder911/your-repo-name](https://github.com/parminder911/javajenkins))
 
 ---
 
