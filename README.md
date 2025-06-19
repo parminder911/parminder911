@@ -46,7 +46,7 @@ I'm a DevOps enthusiast passionate about automating workflows and managing infra
 ### 🚀 Jenkins Pipeline
 - Built a CI/CD pipeline with Jenkins to automate building and deploying.
 - **Tools**: Jenkins, Git, Maven, JUnit, Tomcat  
-- 🔗 [View Project]([https://github.com/parminder911/your-repo-name](https://github.com/parminder911/javajenkins))
+- 🔗 [View Project](https://github.com/parminder911/javajenkins)
 
 ---
 
